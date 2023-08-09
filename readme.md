@@ -8,4 +8,4 @@ This is a full stack infrastruture as code that will provision serverless instan
 
 # How to use this repository
 
-The 'rentzone.env' must be added to the same home directory of this repository (provided seperately from a trust approval)
+The 'rentzone.env' must be added to the home directory of this repository (provided seperately from a trust approval)
